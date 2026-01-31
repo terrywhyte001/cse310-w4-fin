@@ -1,0 +1,14 @@
+C:\Users\hp\OneDrive\Desktop\cse310-w4-fin\PersonalFinanceManager\obj\Debug\net6.0\PersonalFinanceManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\OneDrive\Desktop\cse310-w4-fin\PersonalFinanceManager\obj\Debug\net6.0\PersonalFinanceManager.AssemblyInfoInputs.cache
+C:\Users\hp\OneDrive\Desktop\cse310-w4-fin\PersonalFinanceManager\obj\Debug\net6.0\PersonalFinanceManager.AssemblyInfo.cs
+C:\Users\hp\OneDrive\Desktop\cse310-w4-fin\PersonalFinanceManager\obj\Debug\net6.0\PersonalFinanceManager.csproj.CoreCompileInputs.cache
+C:\Users\hp\OneDrive\Desktop\cse310-w4-fin\PersonalFinanceManager\bin\Debug\net6.0\PersonalFinanceManager.exe
+C:\Users\hp\OneDrive\Desktop\cse310-w4-fin\PersonalFinanceManager\bin\Debug\net6.0\PersonalFinanceManager.deps.json
+C:\Users\hp\OneDrive\Desktop\cse310-w4-fin\PersonalFinanceManager\bin\Debug\net6.0\PersonalFinanceManager.runtimeconfig.json
+C:\Users\hp\OneDrive\Desktop\cse310-w4-fin\PersonalFinanceManager\bin\Debug\net6.0\PersonalFinanceManager.dll
+C:\Users\hp\OneDrive\Desktop\cse310-w4-fin\PersonalFinanceManager\bin\Debug\net6.0\PersonalFinanceManager.pdb
+C:\Users\hp\OneDrive\Desktop\cse310-w4-fin\PersonalFinanceManager\obj\Debug\net6.0\PersonalFinanceManager.dll
+C:\Users\hp\OneDrive\Desktop\cse310-w4-fin\PersonalFinanceManager\obj\Debug\net6.0\refint\PersonalFinanceManager.dll
+C:\Users\hp\OneDrive\Desktop\cse310-w4-fin\PersonalFinanceManager\obj\Debug\net6.0\PersonalFinanceManager.pdb
+C:\Users\hp\OneDrive\Desktop\cse310-w4-fin\PersonalFinanceManager\obj\Debug\net6.0\PersonalFinanceManager.genruntimeconfig.cache
+C:\Users\hp\OneDrive\Desktop\cse310-w4-fin\PersonalFinanceManager\obj\Debug\net6.0\ref\PersonalFinanceManager.dll
