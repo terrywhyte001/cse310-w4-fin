@@ -12,3 +12,4 @@ C:\Users\hp\OneDrive\Desktop\cse310-w4-fin\PersonalFinanceManager\obj\Debug\net8
 C:\Users\hp\OneDrive\Desktop\cse310-w4-fin\PersonalFinanceManager\obj\Debug\net8.0\PersonalFinanceManager.pdb
 C:\Users\hp\OneDrive\Desktop\cse310-w4-fin\PersonalFinanceManager\obj\Debug\net8.0\PersonalFinanceManager.genruntimeconfig.cache
 C:\Users\hp\OneDrive\Desktop\cse310-w4-fin\PersonalFinanceManager\obj\Debug\net8.0\ref\PersonalFinanceManager.dll
+C:\Users\hp\OneDrive\Desktop\cse310-w4-fin\PersonalFinanceManager\obj\Debug\net8.0\PersonalFinanceManager.sourcelink.json
