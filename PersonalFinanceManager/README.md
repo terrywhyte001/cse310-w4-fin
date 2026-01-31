@@ -3,6 +3,10 @@
 A comprehensive console-based personal finance management application built in C# that helps users track income, expenses, and budgets.
 
 ## Project Overview
+This Personal Finance Manager application is designed to help users effectively manage their personal finances through a console interface. It allows users to record income and expenses, set budgets, and view financial summaries and reports.
+For a live demonstration, watch the
+
+[ software demo video](https://youtu.be/KpVDlR-g55o)
 
 This project fulfills module requirements by demonstrating:
 - **C# Fundamentals**: Variables, loops, conditionals, collections
@@ -269,3 +273,7 @@ This project demonstrates:
 **Version**: 1.0
 **Language**: C# (.NET 6.0)
 **License**: Educational Use
+
+# useful_links 
+Github Repository 
+VS code
